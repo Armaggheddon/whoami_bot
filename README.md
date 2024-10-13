@@ -57,11 +57,7 @@ To get started, follow these steps:
     python3 src/main.py
     ```
 
-And you’re good to go! 🎉 Send the bot any message, and it will reply with your User ID.
-
-<p align="center">
-  <img width="625" height="254" src="./docs/images/sample_response.png">
-</p>
+And you’re good to go! 🎉 
 
 
 ## 🤔 What does it do?
@@ -70,5 +66,8 @@ Simple:
 
 - You send the bot any message.
 - It replies with your User ID. 🎉
+  <p align="center">
+  <img width="640" height="280" src="./docs/images/sample_interaction.svg">
+  </p>
 
 Perfect for when you need to check your Telegram ID for other bots or apps! 💡
