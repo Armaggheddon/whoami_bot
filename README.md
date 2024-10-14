@@ -67,7 +67,7 @@ Simple:
 - You send the bot any message.
 - It replies with your User ID. 🎉
   <p align="center">
-  <img width="640" height="280" src="./docs/images/sample_interaction.svg">
+  <img width="100%" height="%" src="./docs/images/sample_interaction.png">
   </p>
 
 Perfect for when you need to check your Telegram ID for other bots or apps! 💡
